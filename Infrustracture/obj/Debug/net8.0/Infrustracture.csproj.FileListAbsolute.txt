@@ -1,0 +1,12 @@
+C:\Users\VICTUS\Desktop\exam)\Infrustracture\bin\Debug\net8.0\Infrustracture.deps.json
+C:\Users\VICTUS\Desktop\exam)\Infrustracture\bin\Debug\net8.0\Infrustracture.dll
+C:\Users\VICTUS\Desktop\exam)\Infrustracture\bin\Debug\net8.0\Infrustracture.pdb
+C:\Users\VICTUS\Desktop\exam)\Infrustracture\obj\Debug\net8.0\Infrustracture.csproj.AssemblyReference.cache
+C:\Users\VICTUS\Desktop\exam)\Infrustracture\obj\Debug\net8.0\Infrustracture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VICTUS\Desktop\exam)\Infrustracture\obj\Debug\net8.0\Infrustracture.AssemblyInfoInputs.cache
+C:\Users\VICTUS\Desktop\exam)\Infrustracture\obj\Debug\net8.0\Infrustracture.AssemblyInfo.cs
+C:\Users\VICTUS\Desktop\exam)\Infrustracture\obj\Debug\net8.0\Infrustracture.csproj.CoreCompileInputs.cache
+C:\Users\VICTUS\Desktop\exam)\Infrustracture\obj\Debug\net8.0\Infrustracture.dll
+C:\Users\VICTUS\Desktop\exam)\Infrustracture\obj\Debug\net8.0\refint\Infrustracture.dll
+C:\Users\VICTUS\Desktop\exam)\Infrustracture\obj\Debug\net8.0\Infrustracture.pdb
+C:\Users\VICTUS\Desktop\exam)\Infrustracture\obj\Debug\net8.0\ref\Infrustracture.dll
