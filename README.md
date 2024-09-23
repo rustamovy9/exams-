@@ -20,4 +20,6 @@ Npgsql: Драйвер для работы с PostgreSQL.
 Dapper: Микро ORM для упрощения работы с базой данных.
 
 # Устоновка)
+для устоновки нужно скачать Npgsql и Dapper package 
+
 git clone https://github.com/rustamovy9/exam-
